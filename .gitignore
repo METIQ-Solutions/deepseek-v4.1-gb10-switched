@@ -1,0 +1,9 @@
+# Site profiles belong in a deployment checkout, never here
+*.local.json
+config/nodes.json
+
+# Local scratch
+/private/
+/results/
+*.log
+__pycache__/
